@@ -19,8 +19,6 @@ My passion is right at the intersection of AI, simulation, and decision-making. 
 - 🧠 LLM / VLM / VLAM Fine-Tuning & Alignment (SFT, DPO, RLHF/RLAIF)
 - 🛰️ Embodied AI in high-fidelity simulators (Isaac Lab, Genesis)
 
-Currently leading work through [Artificial Twin](https://artificialtwin.ai) and collaborating on real-world applications of AI in defense, finance, and infrastructure.
-
 ---
 
 ### 🔗 Connect with Me
