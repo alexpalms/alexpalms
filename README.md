@@ -80,6 +80,6 @@ Here are a few of my public repositories that reflect my work and interests:
 - Experimenting with adversarial RL for LLM alignment fine-tuning
 - Exploring speculative decoding for fast LLM inference
 - Learning Triton to optimize GPU workloads for small-scale LLMs
-- Testing Agentic Frameworks for Multi-Step Coordination
-- Moving Toward Vision-Language-Action Models
+- Testing agentic frameworks for multi-step coordination
+- Moving toward Vision-Language-Action models
 
