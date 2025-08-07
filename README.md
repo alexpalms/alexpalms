@@ -37,7 +37,7 @@ Here are a few of my public repositories that reflect my work and interests:
 
 <table>
   <tr>
-    <th align="center">🛡️ <a href="https://github.com/yourusername/rl-drone-swarm">RL-Drone-Swarm</a></th>
+    <th align="center">🛡️ <a href="https://github.com/alexpalms/deeprl-counter-uav-swarm">RL-Drone-Swarm</a></th>
     <th align="center">🕹️ <a href="https://github.com/diambra/arena">DIAMBRA Arena</a></th>
     <th align="center">🤖 <a href="https://github.com/diambra/agents">DIAMBRA Agents</a></th>
   </tr>
