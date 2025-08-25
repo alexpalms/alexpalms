@@ -35,13 +35,17 @@ I’m always happy to chat with people who share my interests and passions. Feel
 
 Here are a few of my public repositories that reflect my work and interests:
 
-<table>
+<table style="table-layout: fixed; width: 100%;">
   <tr>
-    <th align="center">🛡️ <a href="https://github.com/alexpalms/deeprl-counter-uav-swarm">RL Drone Swarm Defense</a></th>
-    <th align="center">🕹️ <a href="https://github.com/diambra/arena">DIAMBRA Arena</a></th>
-    <th align="center">🤖 <a href="https://github.com/diambra/agents">DIAMBRA Agents</a></th>
+    <th align="center" style="width: 25%;">🔀 <a href="https://github.com/alexpalms/discrete_rsl_rl">Extending GPU-Native RSL-RL Library</a></th>
+    <th align="center" style="width: 25%;">🛡️ <a href="https://github.com/alexpalms/deeprl-counter-uav-swarm">RL Drone Swarm Defense</a></th>
+    <th align="center" style="width: 25%;">🕹️ <a href="https://github.com/diambra/arena">DIAMBRA Arena</a></th>
+    <th align="center" style="width: 25%;">🤖 <a href="https://github.com/diambra/agents">DIAMBRA Agents</a></th>
   </tr>
   <tr>
+    <td align="center">
+      <img src="https://alexpalms.github.io/projects/03-discrete_rsl_rl/featured_hu11144056325490086434.webp" alt="RL-Drone-Swarm" width="70%">
+    </td>
     <td align="center">
       <img src="https://alexpalms.github.io/projects/02-rl_cuas/featured_hu6406886376829203196.webp" alt="RL-Drone-Swarm" width="70%">
     </td>
@@ -53,6 +57,9 @@ Here are a few of my public repositories that reflect my work and interests:
     </td>
   </tr>
   <tr>
+    <td align="center">
+      Customized fork of RSL-RL library that supports multi-discrete action spaces.
+    </td>
     <td align="center">
       Counter-kamikaze drone swarm with multi-agent reinforcement learning in a realistic simulation.
     </td>
