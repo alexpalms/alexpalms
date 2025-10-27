@@ -4,20 +4,22 @@
 
 <p align="center">
   <b>Senior AI / ML Research Engineer</b><br>
-  Specializing in Reinforcement Learning, LLMs / VLMs / VLAMs, and Embodied / Physical AI
+  Specializing in LLMs / VLMs / VLAs, Reinforcement Learning, and Embodied / Physical AI
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I am a senior applied AI/ML Engineer with 15 years of experience building intelligent agents through Reinforcement Learning, Multimodal Models, and Simulation. I've had the privilege of delivering production-grade solutions across industries ranging from aerospace and defense to robotics. My work spans Reinforcement Learning, physics-based Modeling and Simulation, and is now expanding into LLMs, VLMs, and VLAMs. I'm focused on combining embodied learning with RL and multimodal AI to tackle real-world challenges.
+I’m a senior AI/ML research engineer with 15+ years of experience building intelligent agents and AI systems that **understand and reason about the world**. My work spans **foundation models, reinforcement learning, and physics-based simulation**, continuously expanding into **VLMs, VLAs, and embodied multimodal AI**.  
+
+Currently part of the **core research and engineering team at [LawZero](https://lawzero.org/en)**, a non-profit AI lab in Montreal led by Yoshua Bengio, I focus on advancing **truthful, transparent, and safe-by-design AI** through next-generation foundational models, and reasoning architectures.
 
 My passion is right at the intersection of AI, simulation, and decision-making. I focus on:
 
-- 🧭 Reinforcement Learning (online/offline, adversarial, multi-agent)
-- 🧠 LLM / VLM / VLAM Fine-Tuning & Alignment (SFT, DPO, RLHF/RLAIF)
-- 🛰️ Embodied AI in high-fidelity simulators (Isaac Lab, Genesis)
+- 🧠 **Foundation Models & Alignment**: LLM / VLM / VLA fine-tuning and alignment (SFT, DPO, RLHF/RLAIF) with a focus on interpretable, safe, and truthful reasoning.
+- 🧭 **Reinforcement Learning**: Online/offline, adversarial, multi-agent, imitation learning, and human-in-the-loop optimization. 
+- 🛰️ **Embodied AI & High-Fidelity Simulation**: Isaac Lab, Genesis, and physics-based virtual environments for grounded RL and world modeling.
 
 ---
 
