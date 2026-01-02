@@ -23,6 +23,15 @@ My passion is right at the intersection of AI, simulation, and decision-making. 
 
 ---
 
+### ✨ What I’m Working On Now
+
+- Experimenting with large-scale, distributed RL finetuning, using verifiable rewards for code-focused LLMs
+- Building knowledge and hands-on experience on RL applied to foundation models
+- Exploring the landscape around Vision-Language-Action models: SOTA architectures, training playbooks and recipes, benchmarks, data pipelines, and tooling
+- Standardizing approaches and pipelines for DeepRL-based optimal decision making and control in real-world applications
+
+---
+
 ### 🔗 Let's Connect
 
 I’m always happy to chat with people who share my interests and passions. Feel free to reach out!
@@ -75,10 +84,10 @@ Here are a few of my public repositories that reflect my work and interests:
     </td>
   </tr>
   <tr>
-    <td align="center" style="width: 40%;">
+    <td align="center" style="width: 20%;">
       <img src="https://alexpalms.github.io/projects/03-discrete_rsl_rl/featured_hu11144056325490086434.webp" alt="RSL-RL" width="70%">
     </td>
-    <td align="left">
+    <td align="left" style="width: 80%;">
     <p>🔀 <a href="https://github.com/alexpalms/discrete_rsl_rl">Extending GPU-Native RSL-RL Library</a></p>
     <p>Customized fork of RSL-RL library that supports multi-discrete action spaces.</p>
     </td>
@@ -93,11 +102,3 @@ Here are a few of my public repositories that reflect my work and interests:
   <img src="https://github-readme-stats.vercel.app/api?username=alexpalms&show_icons=true&theme=radical" />
 </p>
 -->
-
-<!-- Optional "Now" Section -->
-### ✨ What I’m Working On Now
-
-- Experimenting with large-scale, distributed RL finetuning, using verifiable rewards for code-focused LLMs
-- Building knowledge and hands-on experience on RL applied to foundation models
-- Exploring the landscape around Vision-Language-Action models: SOTA architectures, training playbooks and recipes, benchmarks, data pipelines, and tooling
-- Standardizing approaches and pipelines for DeepRL-based optimal decision making and control in real-world applications
