@@ -39,7 +39,7 @@ Here are a few of my public repositories that reflect my work and interests:
 
 <table style="table-layout: fixed; width: 100%;">
   <tr>
-    <td align="center">
+    <td align="center; width: 40%;">
       <img src="https://raw.githubusercontent.com/alexpalms/containerl/refs/heads/main/img/ContaineRL_cover.jpg" alt="ContaineRL" width="70%">
     </td>
     <td align="left">
@@ -48,7 +48,7 @@ Here are a few of my public repositories that reflect my work and interests:
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center; width: 40%;">
       <img src="https://alexpalms.github.io/projects/02-rl_cuas/featured_hu6406886376829203196.webp" alt="RL-Drone-Swarm" width="70%">
     </td>
     <td align="left">
@@ -57,7 +57,7 @@ Here are a few of my public repositories that reflect my work and interests:
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center; width: 40%;">
       <img src="https://raw.githubusercontent.com/diambra/arena/main/img/github.jpg" alt="DIAMBRA Arena" width="70%">
     </td>
     <td align="left">
@@ -66,7 +66,7 @@ Here are a few of my public repositories that reflect my work and interests:
     </td>
     </tr>
   <tr>
-    <td align="center">
+    <td align="center; width: 40%;">
       <img src="https://github.com/diambra/agents/blob/main/img/agents.jpg?raw=true" alt="DIAMBRA Agents" width="70%">
     </td>
     <td align="left">
@@ -75,7 +75,7 @@ Here are a few of my public repositories that reflect my work and interests:
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center; width: 40%;">
       <img src="https://alexpalms.github.io/projects/03-discrete_rsl_rl/featured_hu11144056325490086434.webp" alt="RSL-RL" width="70%">
     </td>
     <td align="left">
