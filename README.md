@@ -46,6 +46,8 @@ Here are a few of my public repositories that reflect my work and interests:
     <p>🐋 <a href="https://github.com/alexpalms/containerl">ContaineRL - Containerize your RL Environments and Agents</a></p>
     <p>Toolkit to package and deploy reinforcement learning environments and agents inside reproducible containers.</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://alexpalms.github.io/projects/02-rl_cuas/featured_hu6406886376829203196.webp" alt="RL-Drone-Swarm" width="70%">
     </td>
@@ -54,7 +56,7 @@ Here are a few of my public repositories that reflect my work and interests:
      <p>Reinforcement learning framework for decision-level interception prioritization of drone swarms.</p>
     </td>
   </tr>
-  <tr style="height: 200px;">
+  <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/diambra/arena/main/img/github.jpg" alt="DIAMBRA Arena" width="70%">
     </td>
@@ -62,6 +64,8 @@ Here are a few of my public repositories that reflect my work and interests:
     <p>🕹️ <a href="https://github.com/diambra/arena">DIAMBRA Arena</a></p>
     <p>A platform to train reinforcement learning agents in classic retro fighting games.</p>
     </td>
+    </tr>
+  <tr>
     <td align="center">
       <img src="https://github.com/diambra/agents/blob/main/img/agents.jpg?raw=true" alt="DIAMBRA Agents" width="70%">
     </td>
@@ -77,10 +81,6 @@ Here are a few of my public repositories that reflect my work and interests:
     <td align="left">
     <p>🔀 <a href="https://github.com/alexpalms/discrete_rsl_rl">Extending GPU-Native RSL-RL Library</a></p>
     <p>Customized fork of RSL-RL library that supports multi-discrete action spaces.</p>
-    </td>
-    <td align="center">
-    </td>
-    <td align="center">
     </td>
   </tr>
 </table>
