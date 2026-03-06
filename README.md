@@ -9,7 +9,7 @@
 
 ---
 
-### 🧠 About
+### About
 
 I’m a senior AI/ML research engineer with 15+ years of experience building intelligent agents and AI systems that **understand and reason about the world**. My work spans **foundation models, reinforcement learning, and physics-based simulation**, continuously expanding into **VLMs, VLAs, and embodied multimodal AI**.
 
@@ -17,13 +17,13 @@ Currently part of the **core research and engineering team at [LawZero](https://
 
 My passion is right at the intersection of AI, simulation, and decision-making. I focus on:
 
-- 🧠 **Foundation Models & Alignment**: LLM / VLM / VLA fine-tuning and alignment (SFT, DPO, RLVR/RLHF/RLAIF) with a focus on interpretable, safe, and truthful reasoning.
-- 🧭 **Reinforcement Learning**: Online/offline, adversarial, multi-agent, imitation learning, and human-in-the-loop optimization.
-- 🛰️ **Embodied AI & High-Fidelity Simulation**: Isaac Lab, Genesis, and physics-based virtual environments for grounded RL and world modeling.
+- **Foundation Models & Alignment**: LLM / VLM / VLA fine-tuning and alignment (SFT, DPO, RLVR/RLHF/RLAIF) with a focus on interpretable, safe, and truthful reasoning.
+- **Reinforcement Learning**: Online/offline, adversarial, multi-agent, imitation learning, and human-in-the-loop optimization.
+- **Embodied AI & High-Fidelity Simulation**: Isaac Lab, Genesis, and physics-based virtual environments for grounded RL and world modeling.
 
 ---
 
-### ✨ What I’m Working On Now
+### What I’m Working On Now
 
 - Experimenting with large-scale, distributed RL finetuning, using verifiable rewards for code-focused LLMs
 - Building knowledge and hands-on experience on RL applied to foundation models
@@ -32,17 +32,17 @@ My passion is right at the intersection of AI, simulation, and decision-making. 
 
 ---
 
-### 🔗 Let's Connect
+### Let's Connect
 
 I’m always happy to chat with people who share my interests and passions. Feel free to reach out!
 
-- 🌐 [Personal Website](https://alexpalms.github.io/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/alessandropalmas/)
-- 🧠 [Artificial Twin](https://artificialtwin.com) - The brand behind my AI/ML consultancy activity with the mission of supporting and advising companies building intelligent agents
+- [Personal Website](https://alexpalms.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/alessandropalmas/)
+- [Artificial Twin](https://artificialtwin.com) - The brand behind my AI/ML consultancy activity with the mission of supporting and advising companies building intelligent agents
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 Here are a few of my public repositories that reflect my work and interests:
 
