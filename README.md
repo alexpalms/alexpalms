@@ -67,6 +67,16 @@ Here are a few of my public repositories that reflect my work and interests:
   </tr>
   <tr>
     <td align="center" style="width: 40%;">
+      <img src="https://raw.githubusercontent.com/alexpalms/sfiii-gym/main/img/sfiii-gym.gif" alt="SFIII Gym" width="70%">
+    </td>
+    <td align="left">
+    <p>👊🏼 <a href="https://github.com/alexpalms/sfiii-gym">SFIII Gym</a></p>
+    <p>Gymnasium environment for Street Fighter III: 3rd Strike using the MAME emulator.</p>
+    </td>
+    </tr>
+  <tr>
+  <tr>
+    <td align="center" style="width: 40%;">
       <img src="https://raw.githubusercontent.com/diambra/arena/main/img/github.jpg" alt="DIAMBRA Arena" width="70%">
     </td>
     <td align="left">
