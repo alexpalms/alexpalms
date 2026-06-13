@@ -3,7 +3,7 @@
 <h1 align="center">Alessandro (Alex) Palmas</h1>
 
 <p align="center">
-  <b>Senior AI / ML Research Engineer</b><br>
+  <b>Senior Research Engineer</b><br>
   Specializing in LLMs / VLMs / VLAs, Reinforcement Learning, and Embodied / Physical AI
 </p>
 
@@ -25,8 +25,8 @@ My passion is right at the intersection of AI, simulation, and decision-making. 
 
 ### What I’m Working On Now
 
-- Experimenting with large-scale, distributed RL finetuning, using verifiable rewards for code-focused LLMs
-- Building knowledge and hands-on experience on RL applied to foundation models
+- RL-based post-training orchestrating large-scale distributed training on proprietary clusters using multi-dimensional parallelism, optimized training/rollouts balancing, and async/off-policy mechanisms.
+- Large-scale (hundreds of GPUs), distributed reinforcement learning for foundation models fine-tuning, leveraging verifiable rewards for LLMs to achieve beyond state-of-the-art (SOTA) reasoning capabilities, covering both natural language and code.
 - Exploring the landscape around Vision-Language-Action models: SOTA architectures, training playbooks and recipes, benchmarks, data pipelines, and tooling
 - Standardizing approaches and pipelines for DeepRL-based optimal decision making and control in real-world applications
 
